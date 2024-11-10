@@ -1,2 +1,2 @@
-FROM bde2020/hadoop-base:2.0.0-hadoop2.7.4-java8
+FROM apache/hadoop:3.4.1
 COPY hadoop-env.sh /etc/hadoop/

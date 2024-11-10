@@ -1,6 +1,6 @@
 <configuration>
     <property>
-        <name>fs.s3a.impl</name>
-        <value>org.apache.hadoop.fs.s3a.S3AFileSystem</value>
+        <name>mapreduce.framework.name</name>
+        <value>yarn</value>
     </property>
 </configuration>

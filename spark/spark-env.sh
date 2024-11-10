@@ -1,0 +1,1 @@
+export SPARK_DIST_CLASSPATH=$SPARK_DIST_CLASSPATH:/spark/jars/hadoop-aws-2.10.0.jar:/spark/jars/aws-java-sdk-bundle-1.11.271.jar

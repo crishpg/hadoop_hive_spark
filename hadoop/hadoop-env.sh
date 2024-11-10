@@ -1,0 +1,1 @@
+export HADOOP_CLASSPATH=$HADOOP_CLASSPATH:/etc/hadoop/hadoop-aws-2.10.0.jar:/etc/hadoop/aws-java-sdk-bundle-1.11.271.jar

@@ -1,10 +1,6 @@
 <configuration>
     <property>
-        <name>fs.s3a.access.key</name>
-        <value>AWS_ACCESS_KEY_ID</value>
-    </property>
-    <property>
-        <name>fs.s3a.secret.key</name>
-        <value>AWS_ACCESS_SECRET_KEY</value>
+        <name>dfs.replication</name>
+        <value>1</value>
     </property>
 </configuration>
